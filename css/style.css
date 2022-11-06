@@ -25,6 +25,8 @@ body {
     bottom: 0px;
     color: white;
     padding: 10px 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
 }
 
 #todo-list li {
